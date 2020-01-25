@@ -15,7 +15,7 @@ permalink: /doordash/
 		</div>
 
 		<div class="how">
-			<p><b>How it works:</b> Reffs uses referral codes to save you money. Sign up using the button above, and you'll get $5 off your first 3 orders (new customers only). Reffs is an independent project and has no affiliation with Doordash.</p>
+			<p><b>How it works:</b> Reffs uses referral codes to save you money. Sign up using the button above, and you'll get $5 off your first 3 orders (new customers only). Reffs is an independent project and has no affiliation with Doordash. Reffs cannot guarantee that you will receive the promotion listed.</p>
 		</div>
 
 	</div>

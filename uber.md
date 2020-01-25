@@ -15,7 +15,7 @@ permalink: /uber/
 		</div>
 
 		<div class="how">
-			<p><b>How it works:</b> Reffs uses referral codes to save you money. Sign up using the button above, and you'll get a free Uber ride (new customers only; amount varies by location). Reffs is an independent project and has no affiliation with Uber.</p>
+			<p><b>How it works:</b> Reffs uses referral codes to save you money. Sign up using the button above, and you'll get a free Uber ride (new customers only; amount varies by location). Reffs is an independent project and has no affiliation with Uber. Reffs cannot guarantee that you will receive the promotion listed.</p>
 		</div>
 
 	</div>
