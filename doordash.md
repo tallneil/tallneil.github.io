@@ -11,7 +11,7 @@ permalink: /doordash/
 			<img class="logo_sq" src="{{ "/assets/logo_doordash.jpg" | relative_url }}">
 			<h1>Get $15 in DoorDash credit!</h1>
 			<button class="cta"><a href="https://drd.sh/XnBNGD/" target="_blank" rel="noopener">Sign up for DoorDash →</a></button>
-			<p class="hurry">Hurry! Only 24 spots left.</p>
+			<p class="hurry">Hurry! Only 8 spots left.</p>
 		</div>
 
 		<div class="how">
