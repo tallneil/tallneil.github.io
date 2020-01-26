@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Get a free Uber ride
+title: Get a free Uber ride!
 permalink: /uber/
 ---
 
