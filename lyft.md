@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Get a free Lyft ride
+title: Get $5 in Lyft credit!
 permalink: /lyft/
 ---
 
