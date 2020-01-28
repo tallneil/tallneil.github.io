@@ -7,6 +7,13 @@ body {
   padding: 0;
   background: #fcfcfc; }
 
+div.reffs_brand {
+  text-align: center;
+  margin: 30px 0 0 0; }
+  div.reffs_brand img.logo_brand {
+    width: 60px;
+    height: auto; }
+
 div.hero {
   text-align: center;
   padding: 0 20px;
@@ -15,7 +22,7 @@ div.hero {
   box-shadow: #f0f0f0 0 0 20px;
   box-sizing: border-box;
   border: 1px solid transparent;
-  margin: 60px 0 160px 0; }
+  margin: 30px 0 160px 0; }
   div.hero img.logo_sq {
     width: 100px;
     height: auto;
@@ -30,7 +37,7 @@ div.hero {
     background: #000000;
     padding: 16px 20px;
     border-radius: 4px;
-    margin: 0 0 20px 0; }
+    margin: 0 0 30px 0; }
     div.hero button.cta:hover {
       opacity: 0.7;
       cursor: pointer; }
@@ -42,7 +49,7 @@ div.hero {
       text-decoration: none; }
   div.hero p.hurry {
     font-size: 14px;
-    margin: 0 0 60px 0; }
+    margin: 0 0 40px 0; }
 
 div.how {
   color: #808080; }
@@ -51,6 +58,9 @@ div.how {
     font-size: 20px;
     line-height: 26px;
     margin: 0 0 12px 0; }
-  div.how p {
+
+div.disclaimer {
+  color: #808080; }
+  div.disclaimer p {
     font-size: 14px;
     line-height: 24px; }
