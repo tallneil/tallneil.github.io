@@ -10,8 +10,8 @@ permalink: /doordash/
 		<div class="hero">
 			<img class="logo_sq" src="{{ "/assets/logo_doordash.jpg" | relative_url }}">
 			<h1>Get $15 in DoorDash credit!</h1>
-			<button class="cta"><a href="https://drd.sh/XnBNGD/" target="_blank" rel="noopener">Sign up for DoorDash →</a></button>
-			<p class="hurry">Hurry! Only 8 spots left.</p>
+			<button class="cta"><a href="https://drd.sh/XnBNGD/" target="_blank" rel="noopener">Use this referral code →</a></button>
+			<p class="hurry">Reffs hand-selects and verifies every code.</p>
 		</div>
 
 		<div class="how">
